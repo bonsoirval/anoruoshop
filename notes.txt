@@ -1,0 +1,6 @@
+Change Logo:
+
+Admin:
+
+file location: html/admin/view/image.png
+header location: html/admin/view/template/common/header.tpl line 40
